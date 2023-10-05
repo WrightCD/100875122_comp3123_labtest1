@@ -1,0 +1,11 @@
+{
+  "name": "100875122_comp3123_labtest1",
+  "version": "1.0.0",
+  "description": "Lab Test 1",
+  "main": "/question-1/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Carl Wright - 100875122",
+  "license": "ISC"
+}
