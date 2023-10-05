@@ -8,7 +8,6 @@ let path = require("path");
 const logsFolder = __dirname + "/Logs";
 
 if (fs.existsSync(logsFolder)) {
-  console.log("Yes it exists");
   const logFiles = fs.readdirSync(logsFolder);
   process.chdir(logsFolder);
   logFiles.forEach((log) => {
